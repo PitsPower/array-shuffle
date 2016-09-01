@@ -1,0 +1,24 @@
+{
+  "name": "array-shuffle",
+  "version": "1.0.0",
+  "description": "Shuffles an array around randomly",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WheatleyTheCoder/array-shuffle.git"
+  },
+  "keywords": [
+    "random",
+    "shuffle",
+    "array"
+  ],
+  "author": "WheatleyTheCoder <slendermanwithaface@gmail.com> (http://project2.neocities.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WheatleyTheCoder/array-shuffle/issues"
+  },
+  "homepage": "https://github.com/WheatleyTheCoder/array-shuffle#readme"
+}
