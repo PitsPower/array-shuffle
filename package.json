@@ -1,5 +1,5 @@
 {
-  "name": "array-shuffle",
+  "name": "array-shuffle-test",
   "version": "1.0.0",
   "description": "Shuffles an array around randomly",
   "main": "src/index.js",
